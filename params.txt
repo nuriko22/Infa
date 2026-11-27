@@ -1,0 +1,8 @@
+m = 1.0
+k = 4.0
+delta = 0.2
+x0 = 1.0
+v0 = 0.0
+T = 20.0
+dt = 0.001
+method = better
